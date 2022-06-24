@@ -1,2 +1,2 @@
 # Sentiment_Analysis
-Impact of Feature Extraction on Sentiment Analysis
+Performed a comparative analysis of existing feature extraction techniques used in sentiment analysis over the restaurant review dataset.  
